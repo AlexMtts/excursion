@@ -16,6 +16,12 @@ h2 {
 	color: white;
 }
 
+h4 {
+	color: gray;
+	font-size: 21px;
+	font-weight: normal;
+}
+
 .link {
 	font-size: 16px;
 	color: aquamarine;
